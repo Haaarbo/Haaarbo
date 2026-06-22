@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack | GameDev | Game Designer`**
 
-Olá, sou Abrahão Guimarães, 23 anos, natural do estado do Amazonas. Completei meu ensino médio técnico na Fundação Matias Machline em mecatrônica e me graduei no CIESA no curso de Ciência da Computação. Atualmente, participo da startup da *[VidaPet.Tech](https://vidapet.tech/)* como desenvolvedor web, trabalhando para o aperfeiçoamento da aplicação web. Também faço alguns projetos voltados para a área de desenvolvimento de jogos, como *[Streetball](https://sdgamedeveloper.itch.io/street-ball)* e *[Teatro dos Caminhos](https://cauxi.itch.io/teatro-dos-caminhos)*.
+Olá, sou Abrahão Guimarães, 23 anos, natural do estado do Amazonas. Completei meu ensino médio técnico na Fundação Matias Machline em mecatrônica e me graduei no CIESA no curso de Ciência da Computação. Atualmente, participo da startup da *[VidaPet.Tech](https://vidapet.tech/)* como desenvolvedor web, trabalhando para o aperfeiçoamento da aplicação web. Também faço projetos voltados para a área de desenvolvimento de jogos, como *[Streetball](https://sdgamedeveloper.itch.io/street-ball)* e *[Teatro dos Caminhos](https://cauxi.itch.io/teatro-dos-caminhos)*.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abrahao0707/" target="_blank">
