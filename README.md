@@ -87,14 +87,8 @@ Olá, sou Abrahão Guimarães, 23 anos, natural do estado do Amazonas. Completei
 
 <br/><br/>
 ---
-<div style="display: grid; grid-template-columns: 1.3fr 1fr; gap: 10px; width: 100%; max-width: 800px;">
-  <div>
-    <img alt="Github Stats" style="width: 100%; height: auto; max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Haaarbo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  </div>
-  <div>
-    <img alt="Github Readme Stats" style="width: 100%; height: auto; max-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haaarbo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
-  </div>
-</div>
+<p>
+<img align="left" alt="Github Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Haaarbo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<br clear="all" />
-
+<img align="left" alt="Github Readme Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haaarbo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+</p>
